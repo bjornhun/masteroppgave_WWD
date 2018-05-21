@@ -1,0 +1,2 @@
+model_checkpoint_path: "single_layer_gru_20epochs_40coeffs_doubleneg.ckpt"
+all_model_checkpoint_paths: "single_layer_gru_20epochs_40coeffs_doubleneg.ckpt"
